@@ -1,0 +1,13 @@
+/**
+ * Clase principal del proyecto para la asignatura Programación
+ * Orientada a Objetos, para el curso 2023
+ *
+ * @author María José Macz López mmaczl@miumg.edu.gt
+ */
+public class Fabrica
+{
+ public static void main(String[] args) {
+ Prueba.cargarDatos();
+ Menu.iniciar();
+ }
+}
