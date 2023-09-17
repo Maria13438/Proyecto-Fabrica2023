@@ -1,0 +1,15 @@
+/**
+ * Clase principal del proyecto para la asignatura Programación
+ * Orientada a Objetos, para el curso 2023
+ *
+ * @author María José Macz López mmaczl@miumg.edu.gt
+ */
+package modelo.enumerable;
+/**
+ * Enumeration class Operacion - Opreaciones CRUD disponibles
+ * Crear, editar o eliminar
+ */
+public enum Operacion
+{
+ CREAR, EDITAR, ELIMINAR
+}
